@@ -380,7 +380,7 @@ small {
 .mark,
 mark {
  padding:.2em;
- background-color:#333
+ background-color:#ecffe891;
 }
 .list-unstyled {
  padding-left:0;
@@ -1744,10 +1744,10 @@ pre code {
  font-size:.9375rem;
  font-weight:400;
  line-height:1.5;
- color:#fff;
- background-color:#f0f0f0;
+ color:#221717;
+ background-color:#fbfbfb;
  background-clip:padding-box;
- border:1px solid #fff;
+ border:1px solid #3e3737;
  border-radius:.25rem;
  transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
 }
@@ -1765,7 +1765,7 @@ pre code {
  text-shadow:0 0 0 #fff
 }
 .form-control:focus {
- color:#fff;
+ color:#000;
  background-color:#FDFDFD;
  border-color:#739ac2;
  outline:0;
