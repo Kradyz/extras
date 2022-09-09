@@ -1,16 +1,4 @@
-/*
-This CSS contains a modified version of Bootstrap's CSS
-Bootstrap's License can be found here: https://github.com/twbs/bootstrap/blob/main/LICENSE
 
-This CSS contains the Nord color scheme made by Arctic Ice Studio & Sven Greb
-Nord's License can be found here: https://github.com/arcticicestudio/nord/blob/develop/LICENSE.md
-
-The modifications to Bootstrap's CSS were done by SaberTooth Studios Games
-The github repository containing the source code of this CSS can be found here: https://github.com/SaberTooth-Studios/NordTheme-Bootstrap/
-
-Modifications were done by 2xx04 for lemmy-ui
-
-*/
 body {background-image: url(https://i.imgur.com/D0Q4EmY.png); background-attachment:fixed; background-size: cover; background-position: center;}
 :root {
     --blue: #88C0D0;
